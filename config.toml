@@ -1,5 +1,5 @@
 baseURL = 'https://pcf.community/'
 languageCode = 'en-us'
-title = 'Programmingcontest Foundation'
+title = 'Programming Contest Foundation'
 theme = "terminal"
 publishDir = "docs/"
