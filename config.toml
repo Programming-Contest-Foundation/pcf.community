@@ -3,3 +3,8 @@ languageCode = 'en-us'
 title = 'Programming Contest Foundation'
 theme = "terminal"
 publishDir = "docs/"
+
+[params]
+    themeColor = "green"
+    showMenuItems  = 2
+    centerTheme = true
