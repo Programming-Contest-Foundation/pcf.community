@@ -14,3 +14,5 @@ The mission is to provide knowledge and support in all aspects of holding a prog
 For the BAPC region we maintain a Slack for organizers, judges, systems, coaches, and volunteers. If you are involved or interested
 in getting involved in the BAPC or a preliminary, you are invited to join our [Slack Workspace](https://join.slack.com/t/benelux-nwerc/shared_invite/zt-1b0k82fhd-ohLOpFhX1hnF7k5dlIgreg).
 
+# Wiki on how to organize contests
+To support the contests we have two different wiki's, (one public)[https://github.com/Programming-Contest-Foundation/PublicWiki/wiki] and one with more sensitive content on request. To request access to the second one please ask in the Slack community.
