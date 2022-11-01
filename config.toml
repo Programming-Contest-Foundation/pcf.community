@@ -6,5 +6,5 @@ publishDir = "docs/"
 
 [params]
     themeColor = "green"
-    showMenuItems  = 2
+    showMenuItems  = 5
     centerTheme = true
