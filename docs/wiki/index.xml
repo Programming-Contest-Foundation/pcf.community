@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wiki on Programming Contest Foundation</title>
+    <link>https://pcf.community/wiki/</link>
+    <description>Recent content in Wiki on Programming Contest Foundation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 18 Apr 2022 11:50:27 +0200</lastBuildDate><atom:link href="https://pcf.community/wiki/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BAPC Preliminary Sites</title>
+      <link>https://pcf.community/wiki/bapc-preliminary-sites/</link>
+      <pubDate>Mon, 18 Apr 2022 11:50:27 +0200</pubDate>
+      
+      <guid>https://pcf.community/wiki/bapc-preliminary-sites/</guid>
+      <description>Although not the primary focus of this foundation this is the current list (as of 2021) which holds a contest to advance to the BAPC contest, for more up to date information please check bapc.eu or ask in the SLACK if people have more information:
+Contacts University Email Avans Fontys University of Applied Sciences Eindhoven Ghent Leiden ict@deleidscheflesch.nl Mons Radboud Rijksuniversiteit Groningen board@svcover.nl TU Delft chipcie@ch.tudelft.nl TU/e gehack@gewis.nl UKIEPC University of Twente tapc2020@inter-actief.</description>
+      <content>&lt;p&gt;Although not the primary focus of this foundation this is the current list (as of 2021) which holds a contest to advance to the BAPC contest, for more up to date information please check bapc.eu or ask in the &lt;a href=&#34;slack&#34;&gt;SLACK&lt;/a&gt; if people have more information:&lt;/p&gt;
+&lt;h1 id=&#34;contacts&#34;&gt;Contacts&lt;/h1&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;University&lt;/th&gt;
+&lt;th&gt;Email&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Avans&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Fontys University of Applied Sciences Eindhoven&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Ghent&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Leiden&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;mailto:ict@deleidscheflesch.nl&#34;&gt;ict@deleidscheflesch.nl&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Mons&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Radboud&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Rijksuniversiteit Groningen&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;mailto:board@svcover.nl&#34;&gt;board@svcover.nl&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;TU Delft&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;mailto:chipcie@ch.tudelft.nl&#34;&gt;chipcie@ch.tudelft.nl&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;TU/e&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;mailto:gehack@gewis.nl&#34;&gt;gehack@gewis.nl&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;UKIEPC&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;University of Twente&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;mailto:tapc2020@inter-actief.net&#34;&gt;tapc2020@inter-actief.net&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Université Catholique de Louvain&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Utrecht&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;mailto:escapade@A-Eskwadraat.nl&#34;&gt;escapade@A-Eskwadraat.nl&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;UvA&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;mailto:competitie@svia.nl&#34;&gt;competitie@svia.nl&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Vrije Universiteit Amsterdam&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;mailto:aapp@storm.vu&#34;&gt;aapp@storm.vu&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>BAPC Slack</title>
+      <link>https://pcf.community/wiki/benelux-slack/</link>
+      <pubDate>Mon, 18 Apr 2022 11:50:27 +0200</pubDate>
+      
+      <guid>https://pcf.community/wiki/benelux-slack/</guid>
+      <description>Community Most of the discussions about our region in relation to BAPC happens during the actual event (For timings see bapc.eu) but during the rest of the year there is a semi-active community available on the SLACK.
+If you have any questions, feel free to reach out to that community in the BAPC organisation slack which can be joined here.
+Technical The SLACK mentioned above has a lot of technical experienced people in setting up a contest but if you have a very specific usecase you might be interested in the DOMjudge slack, or the ICPC Tools.</description>
+      <content>&lt;h1 id=&#34;community&#34;&gt;Community&lt;/h1&gt;
+&lt;p&gt;Most of the discussions about our region in relation to BAPC happens during the actual event (For timings see bapc.eu) but during the rest of the year there is a semi-active community available on the SLACK.&lt;/p&gt;
+&lt;p&gt;If you have any questions, feel free to reach out to that community in the BAPC organisation slack which can be joined &lt;a href=&#34;https://join.slack.com/t/benelux-nwerc/shared_invite/zt-1b0k82fhd-ohLOpFhX1hnF7k5dlIgreg&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;h1 id=&#34;technical&#34;&gt;Technical&lt;/h1&gt;
+&lt;p&gt;The SLACK mentioned above has a lot of technical experienced people in setting up a contest but if you have a very specific usecase you might be interested in the &lt;a href=&#34;https://www.domjudge.org/chat&#34;&gt;DOMjudge slack&lt;/a&gt;, or the &lt;a href=&#34;https://join.slack.com/t/icpctools/shared_invite/zt-wti6k1r6-t25~VYEcyKbVn4Vj_ecBLA&#34;&gt;ICPC Tools&lt;/a&gt;. Please be aware that the people in these slacks might be in another timezone so are less useful for last minute questions.&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Hosting a preliminary</title>
+      <link>https://pcf.community/wiki/hosting-a-preliminary/</link>
+      <pubDate>Mon, 18 Apr 2022 11:50:27 +0200</pubDate>
+      
+      <guid>https://pcf.community/wiki/hosting-a-preliminary/</guid>
+      <description>Hosting a preliminary Hosting a preliminary contest not an easy endeavour to do. Starting from scratch is not trivial. This article outlines some basic starting points of a contest.
+The format of the contest A programming contest has a very common recipe. The ingredients are:
+A problem Set (if you are lucky, they will be provided by you by the smart people of the jury) Participating teams consisting upto 3 members A Contest Judging System like DOMjudge For every team have a single PC A contest takes usually 5 hours, with the last hour when the scoreboard is not updated.</description>
+      <content>&lt;h1 id=&#34;hosting-a-preliminary&#34;&gt;Hosting a preliminary&lt;/h1&gt;
+&lt;p&gt;Hosting a preliminary contest not an easy endeavour to do. Starting from scratch is not trivial. This article outlines
+some basic starting points of a contest.&lt;/p&gt;
+&lt;h2 id=&#34;the-format-of-the-contest&#34;&gt;The format of the contest&lt;/h2&gt;
+&lt;p&gt;A programming contest has a very common recipe. The ingredients are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A problem Set (if you are lucky, they will be provided by you by the smart people of the jury)&lt;/li&gt;
+&lt;li&gt;Participating teams consisting upto 3 members&lt;/li&gt;
+&lt;li&gt;A Contest Judging System like &lt;a href=&#34;https://www.domjudge.org/&#34;&gt;DOMjudge&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;For every team have a single PC&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;A contest takes usually 5 hours, with the last hour when the scoreboard is not updated. During the contest team
+members may not communicate with other teams. The teams have no access to internet. The teams require compilers and
+IDEs installed. An example for what to provide can be
+found &lt;a href=&#34;https://docs.icpc.global/worldfinals-programming-environment&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The format is formally written in the &lt;a href=&#34;https://icpc.global/regionals/rules&#34;&gt;Regional rules&lt;/a&gt;. Not everything is relevant
+for a preliminary. You are also allowed to diverge from the rules. For example, rather than limiting the documentation,
+a contest can be beginner-friendly by allowing to bring all documentation.&lt;/p&gt;
+&lt;h2 id=&#34;considerations-for-hosting-a-contest&#34;&gt;Considerations for hosting a contest&lt;/h2&gt;
+&lt;h3 id=&#34;where-do-i-hold-my-contest-how-many-teams-can-i-host&#34;&gt;where do I hold my contest? How many teams can I host?&lt;/h3&gt;
+&lt;p&gt;Keep in mind that enough a team should have enough space for all members to work. More teams also requires more
+supervision and more balloons.&lt;/p&gt;
+&lt;h3 id=&#34;how-to-do-registration&#34;&gt;How to do registration?&lt;/h3&gt;
+&lt;p&gt;For the BAPC preliminaries you can be given a site to deal with teh registration of your contest. This has the advantage
+that for all followup contests the same system is used. The downside is that the system is a bit complex then you might
+need. Ask in the &lt;a href=&#34;https://pcf.community/Benelux-SLACK.md&#34;&gt;Slack&lt;/a&gt; for more information on this.
+Teams registered in the ICPC system are considered for the allocation of the world final slots.&lt;/p&gt;
+&lt;h3 id=&#34;will-you-offer-the-participants-snacks-and-drinks-during-the-contest&#34;&gt;Will you offer the participants snacks and drinks during the contest?&lt;/h3&gt;
+&lt;p&gt;You can ask a small registration fee to finance this. You can also buy medals or a prize for the winners of the contest.&lt;/p&gt;
+&lt;h3 id=&#34;how-do-i-organise-the-systems&#34;&gt;How do I organise the systems?&lt;/h3&gt;
+&lt;p&gt;Check if you have the ability to limit internet access and supply my own system setup. In the past it has happened that
+it was not possible to make the system work. Teams were then allowed to participate on their own laptop(one per team)
+and based on trust the contest was conducted.&lt;/p&gt;
+&lt;h3 id=&#34;do-you-want-to-do-a-test-session&#34;&gt;Do you want to do a test session?&lt;/h3&gt;
+&lt;p&gt;A test session is a good way to get teams familiar with the contest environment, but requires a wipe of you system
+afterwards.&lt;/p&gt;
+&lt;h3 id=&#34;volunteers&#34;&gt;Volunteers&lt;/h3&gt;
+&lt;p&gt;During the contest, have some volunteers (runners) available to help with bringing prints and balloons and watching the
+contest area to ensure participants don&amp;rsquo;t communicate outside their team. Try to project the scoreboard if possible.&lt;/p&gt;
+&lt;h3 id=&#34;ceremonies-and-afterparty&#34;&gt;Ceremonies and afterparty&lt;/h3&gt;
+&lt;p&gt;Be sure to have a location to the introduction, jury explanation (slides provided by the jury) and results.
+For the results, you can use the &lt;a href=&#34;https://tools.icpc.global/resolver/&#34;&gt;Resolver&lt;/a&gt;.
+It is always nice to have a social gathering place after the contest, like a bar of restaurant for post contest talks
+and socialising between the teams.&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Organizing a first year contest</title>
+      <link>https://pcf.community/wiki/organizing-a-first-year-contest---setting-up-an-icpc-style-contest/</link>
+      <pubDate>Mon, 18 Apr 2022 11:50:27 +0200</pubDate>
+      
+      <guid>https://pcf.community/wiki/organizing-a-first-year-contest---setting-up-an-icpc-style-contest/</guid>
+      <description>One of the first activities a new organization can try is to host an event for first years to introduce them to Competive Programming. Currently the universities organize this independently but there have been years where problemsets have been shared. If this is the first time that you want to organize something like this feel free to tag people in the Slack and ask for help.
+The general information (although very focused on the style chosen in the USA) can be found here: https://icpc.</description>
+      <content>&lt;p&gt;One of the first activities a new organization can try is to host an event for first years to introduce them to Competive Programming. Currently the universities organize this independently but there have been years where problemsets have been shared. If this is the first time that you want to organize something like this feel free to tag people in the &lt;a href=&#34;https://pcf.community/Benelux-SLACK.md&#34;&gt;Slack&lt;/a&gt; and ask for help.&lt;/p&gt;
+&lt;p&gt;The general information (although very focused on the style chosen in the USA) can be found here: &lt;a href=&#34;https://icpc.global/regionals/regional-contest-cookbook&#34;&gt;https://icpc.global/regionals/regional-contest-cookbook&lt;/a&gt;. In the BAPC region DOMjudge is chosen more often and for your first contest it is a good idea to ask if there is anyone who still has an instance available to make focussing on the contest easier. This is not because setting up the technical part is hard but more because a lot can go wrong in setting up your contest and outsourcing as much as possible is much easier to focus on all the things you might not have planned for.&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
