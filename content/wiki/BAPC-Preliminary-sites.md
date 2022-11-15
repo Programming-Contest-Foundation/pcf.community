@@ -2,7 +2,7 @@
 title: "BAPC Preliminary Sites"
 date: 2022-04-18T11:50:27+02:00
 ---
-Although not the primary focus of this foundation this is the current list (as of 2021) which holds a contest to advance to the BAPC contest, for more up to date information please check bapc.eu or ask in the [SLACK](slack) if people have more information:
+Although not the primary focus of this foundation this is the current list (as of 2021) which holds a contest to advance to the BAPC contest, for more up to date information please check bapc.eu or ask in the [SLACK](/wiki/benelux-slack/) if people have more information:
 
 # Contacts
 
