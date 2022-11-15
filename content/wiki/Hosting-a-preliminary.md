@@ -6,7 +6,7 @@ date: 2022-04-18T11:50:27+02:00
 # Hosting a preliminary
 
 Hosting a preliminary contest not an easy endeavour to do. Starting from scratch is not trivial. This article outlines
-some basic starting points of a contest.
+some basic starting points of a contest. Everywhere where we write ***should*** you can read *We hope you can do $x to be consistent* feel free to skip some suggestions to make sure you host an preliminary this year instead of being overwhelmed.
 
 ## The format of the contest
 
@@ -18,9 +18,9 @@ A programming contest has a very common recipe. The ingredients are:
 * For every team have a single PC
 
 A contest takes usually 5 hours, with the last hour when the scoreboard is not updated. During the contest team
-members may not communicate with other teams. The teams have no access to internet. The teams require compilers and
+members should not communicate with other teams. The teams should have no access to internet. The teams require compilers and
 IDEs installed. An example for what to provide can be
-found [here](https://docs.icpc.global/worldfinals-programming-environment).
+found [here](https://docs.icpc.global/worldfinals-programming-environment). If you want to provide such an image please ask other universities for their setup so you don't need to re-invent the wheel.
 
 The format is formally written in the [Regional rules](https://icpc.global/regionals/rules). Not everything is relevant
 for a preliminary. You are also allowed to diverge from the rules. For example, rather than limiting the documentation,
@@ -37,7 +37,7 @@ supervision and more balloons.
 
 For the BAPC preliminaries you can be given a site to deal with teh registration of your contest. This has the advantage
 that for all followup contests the same system is used. The downside is that the system is a bit complex then you might
-need. Ask in the [Slack](/Benelux-SLACK.md) for more information on this.
+need. Ask in the [Slack](/wiki/benelux-slack) for more information on this.
 Teams registered in the ICPC system are considered for the allocation of the world final slots.
 
 ### Will you offer the participants snacks and drinks during the contest?
