@@ -13,4 +13,5 @@ Here you can find some general information to help you with organizing a Program
 * [Benelux Slack](/wiki/benelux-slack/)
 * [Hosting a preliminary](/wiki/hosting-a-preliminary/)
 * [Organizing your first ICPC style contest](/wiki/organizing-a-first-year-contest---setting-up-an-icpc-style-contest/)
+* [Coaching a team](/wiki/coaching-a-team/)
 
