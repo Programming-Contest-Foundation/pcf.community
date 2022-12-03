@@ -22,4 +22,4 @@ Although not the primary focus of this foundation this is the current list (as o
 | Université Catholique de Louvain                |                           |
 | Utrecht                                         | escapade@A-Eskwadraat.nl  |
 | UvA                                             | competitie@svia.nl        |
-| Vrije Universiteit Amsterdam                    | aapp@storm.vu             |
+| Vrije Universiteit Amsterdam                    | aapp@svstorm.nl           |
