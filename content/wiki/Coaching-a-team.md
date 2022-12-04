@@ -43,17 +43,15 @@ Another common issue is the temperature in the contest halls. It can heat up ver
 same time. Dressing in easily removable layers can help manage the temperature. Note that the T-shirt should usually
 be worn on top and make sure your contestants are aware of it.
 
-In case one of your team members has dietary restrictions (vegetarian, vegan, gluten free, nut allergy), make sure this i
-s known by the organisation. In ICPC there is a special needs field the contestants should fill in. It depends on per 
-contest how this is handled. Making sure there is food that fits the needs of the contestant always greatly helps 
-their results.
+In case one of your team members has dietary restrictions (vegetarian, vegan, gluten free, nut allergy), make sure this is known by the organization. In ICPC there is a special needs field the contestants should fill in. It depends per 
+contest how this is handled. Making sure there is food that fits the needs of the contestant, as this greatly helps their results.
 
 Also check the systems page if all expected IDEs are present. Sometimes teams prefer a specific IDE that is not listed.
 Contacting the organisation beforehand has a better chance of it being available then during the contest.
 
 # Travelling to the contest
 An important part the coach can play is arranging funding for travel. Often the university is willing to support by 
-financing (a part) of the travel expenses of the teams. 
+financing (a part of) the travel expenses of the teams. 
 
 ## Benelux specific travel
 Travel in the Netherlands can usually be done by public 
