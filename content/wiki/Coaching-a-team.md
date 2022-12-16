@@ -30,7 +30,7 @@ to contact to organisation to ask.
 For TRD, a selection of following templates exist which can be used for a team as basis:
 * [TU Delft template](https://commissies.ch.tudelft.nl/chipcie/resources/tcr-template.zip) ([pdf](https://commissies.ch.tudelft.nl/chipcie/resources/tcr.pdf))
 * [Does god play Tetris](https://github.com/alexjbest/icpc-tcr/blob/master/teamref.pdf)
-* [Team hacKIT](https://github.com/niklasb/tcr/blob/master/tcr.pdf)
+* [Let's party!](https://github.com/mzuenni/ContestReference/blob/new-master/tcr.pdf)
 * [Omogen Heap](https://github.com/kth-competitive-programming/kactl/blob/main/kactl.pdf)
 
 The TRD should be in a folder, or at least be stapled together. Make sure the teams bring a printed version to the 
