@@ -9,7 +9,7 @@ menu: "wiki"
 | Host       |  Delft University of Technology |
 | Organizer  | W.I.S.V. \`Christiaan Huygens\` |
 | Commitee   |                [Chipcie][email] |
-| NWERC Date |             November 25-27 2022 | 
+| NWERC Date |             November 25-27 2022 |
 | website    |                 [link][website] |
 | Pictures   |   (unavailable) [link][photos]  |
 | Scoreboard |              [link][scoreboard] |
@@ -21,17 +21,17 @@ menu: "wiki"
 
 | Contest          | Problemset, solutions and presentation                                            |
 |------------------|-----------------------------------------------------------------------------------|
-| Problemset       | [link][practiceset]                                                               |
-| Solutions slides | [link](https://2022.nwerc.eu/main/solutions.pdf)                                  |
-| Problem packages | [link](https://2022.nwerc.eu/test-session/solutions.zip) |
+| Problemset       | [link](https://2022.nwerc.eu/test-session/problem-set.pdf)                        |
+| Solutions slides | [link](https://2022.nwerc.eu/test-session/solutions.pdf)                          |
+| Problem packages | [link](https://2022.nwerc.eu/test-session/solutions.zip)                          |
 
 
 ### Contest
 
-| Contest          | Problemset, solutions and presentation                   |
-|------------------|----------------------------------------------------------|
-| Problemset       | [link][problemset]                                       |
-| Solutions slides | [link](https://2022.nwerc.eu/test-session/solutions.pdf)  |
+| Contest          | Problemset, solutions and presentation                                            |
+|------------------|-----------------------------------------------------------------------------------|
+| Problemset       | [link](https://2022.nwerc.eu/main/problem-set.pdf)                                |
+| Solutions slides | [link](https://2022.nwerc.eu/main/solutions.pdf)                                  |
 | Problem packages | [link](https://commissies.ch.tudelft.nl/chipcie/archive/2022/nwerc/solutions.zip) |
 
 
@@ -41,5 +41,3 @@ menu: "wiki"
 [email]: mailto:contact@2022.nwerc.eu
 [photos]: #
 [scoreboard]: https://2022.nwerc.eu/main/scoreboard/
-[problemset]: https://2022.nwerc.eu/test-session/problem-set.pdf
-[practiceset]: https://2019.nwerc.eu/files/nwerc2019practice.pdf
