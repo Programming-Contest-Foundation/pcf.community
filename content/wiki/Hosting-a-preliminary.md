@@ -16,7 +16,7 @@ A programming contest has a very common recipe. The ingredients are:
 * Participating teams consisting upto 3 members
 * A Contest Judging System like [DOMjudge](https://www.domjudge.org/)
 * For every team have a single PC
-
+ 
 A contest takes usually 5 hours, with the last hour when the scoreboard is not updated. During the contest team
 members should not communicate with other teams. The teams should have no access to internet. The teams require compilers and
 IDEs installed. An example for what to provide can be
@@ -28,7 +28,7 @@ a contest can be beginner-friendly by allowing to bring all documentation.
 
 ## Considerations for hosting a contest
 
-### where do I hold my contest? How many teams can I host?
+### Where do I hold my contest? How many teams can I host?
 
 Keep in mind that enough a team should have enough space for all members to work. More teams also requires more
 supervision and more balloons.
