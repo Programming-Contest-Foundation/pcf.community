@@ -7,7 +7,7 @@ menu: "wiki"
 |            |                     |
 |------------|--------------------:|
 | Host       |        TU Eindhoven |
-| Organizer  |               GEWIS |
+| Organiser  |               GEWIS |
 | Committee  |     [GEHACK][email] |
 | NWERC Date | November 23-25 2018 | 
 | website    |     [link][website] |

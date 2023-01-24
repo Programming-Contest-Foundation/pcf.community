@@ -43,7 +43,7 @@ Another common issue is the temperature in the contest halls. It can heat up ver
 same time. Dressing in easily removable layers can help manage the temperature. Note that the T-shirt should usually
 be worn on top and make sure your contestants are aware of it.
 
-In case one of your team members has dietary restrictions (vegetarian, vegan, gluten free, nut allergy), make sure this is known by the organization. In ICPC there is a special needs field the contestants should fill in. It depends per 
+In case one of your team members has dietary restrictions (vegetarian, vegan, gluten free, nut allergy), make sure this is known by the organisation. In ICPC there is a special needs field the contestants should fill in. It depends per 
 contest how this is handled. Making sure there is food that fits the needs of the contestant, as this greatly helps their results.
 
 Also check the systems page if all expected IDEs are present. Sometimes teams prefer a specific IDE that is not listed.

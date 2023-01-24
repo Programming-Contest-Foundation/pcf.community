@@ -8,7 +8,7 @@ menu: "wiki"
 |            |                        |
 |------------|-----------------------:|
 | Host       |                        |
-| Organizer  |                        |
+| Organiser  |                        |
 | Committee  |              [][email] |
 | BAPC Date  | October {date}  {year} | 
 | Website    |        [link][website] |

@@ -7,7 +7,7 @@ menu: "wiki"
 |            |                                 |
 |------------|---------------------------------|
 | Host       | TU  Delft                       |
-| Organizer  | W.I.S.V. \`Christiaan Huygens\` |
+| Organiser  | W.I.S.V. \`Christiaan Huygens\` |
 | Committee  | [CHipCie][email]                |
 | NWERC Date | November 23-25 2012             | 
 | website    | [link][website]                 |
