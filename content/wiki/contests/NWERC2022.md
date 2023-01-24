@@ -11,7 +11,7 @@ menu: "wiki"
 | Commitee   |                [Chipcie][email] |
 | NWERC Date |             November 25-27 2022 |
 | website    |                 [link][website] |
-| Pictures   |   (unavailable) [link][photos]  |
+| Pictures   |                  [link][photos] |
 | Scoreboard |              [link][scoreboard] |
 | Teams      |                             140 |
 
@@ -25,7 +25,6 @@ menu: "wiki"
 | Solutions slides | [link](https://2022.nwerc.eu/test-session/solutions.pdf)                          |
 | Problem packages | [link](https://2022.nwerc.eu/test-session/solutions.zip)                          |
 
-
 ### Contest
 
 | Contest          | Problemset, solutions and presentation                                            |
@@ -34,10 +33,12 @@ menu: "wiki"
 | Solutions slides | [link](https://2022.nwerc.eu/main/solutions.pdf)                                  |
 | Problem packages | [link](https://commissies.ch.tudelft.nl/chipcie/archive/2022/nwerc/solutions.zip) |
 
-
-
 [home]: index.md
+
 [website]: https://2022.nwerc.eu/
+
 [email]: mailto:contact@2022.nwerc.eu
-[photos]: #
+
+[photos]: https://2022.nwerc.eu/photos
+
 [scoreboard]: https://2022.nwerc.eu/main/scoreboard/
