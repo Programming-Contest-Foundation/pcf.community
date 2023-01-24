@@ -10,7 +10,7 @@ menu: "wiki"
 | Organiser  |               GEWIS |
 | Committee  |     [GEHACK][email] |
 | NWERC Date | November 23-25 2018 | 
-| website    |     [link][website] |
+| Website    |     [link][website] |
 | Pictures   |      [link][photos] |
 | Scoreboard |  [link][scoreboard] |
 | Teams      |                 119 |

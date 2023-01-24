@@ -10,7 +10,7 @@ menu: "wiki"
 | Organiser  | W.I.S.V. \`Christiaan Huygens\` |
 | Commitee   |                [Chipcie][email] |
 | NWERC Date |             November 25-27 2022 |
-| website    |                 [link][website] |
+| Website    |                 [link][website] |
 | Pictures   |                  [link][photos] |
 | Scoreboard |              [link][scoreboard] |
 | Teams      |                             140 |

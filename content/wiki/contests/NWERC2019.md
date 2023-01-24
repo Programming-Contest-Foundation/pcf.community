@@ -11,7 +11,7 @@ menu: "wiki"
 | Organiser  |                 GEWIS |
 | Committee  |       [GEHACK][email] |
 | BAPC Date  |   November 15-17 2019 | 
-| website    |       [link][website] |
+| Website    |       [link][website] |
 | Pictures   |        [link][photos] |
 | Scoreboard |    [link][scoreboard] |
 | Teams      |                   123 |
