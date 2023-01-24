@@ -4,16 +4,16 @@ description: ""
 menu: "main"
 layout: single
 ---
-The PCF is commonly involved with two larger contest. The domains for these are `bapc.eu` and `nwerc.eu`. Listed below are guidelines on how to work with them and how to request changes.
+The PCF is commonly involved with two larger contests. The domains for these are `bapc.eu` and `nwerc.eu`. Listed below are guidelines on how to work with them and how to request changes.
 
 For this description we take `bapc.eu` as the example domain. Any other domain can be substituted. The PCF can help with setting up with both a website and emailing.
 
 ## Setting up a website
 
-It is recommended to host the website at `<year>.bacp.eu` as its canonical location. This ensures that older websites remain available and that `<year>`'s website will remain available in the future. Make `bapc.eu` and `www.bapc.eu` a redirect to `<year>.bapc.eu`. 
+It is recommended to host the website at `<year>.bapc.eu` as its canonical location. This ensures that older websites remain available and that `<year>`'s website will remain available in the future. Make `bapc.eu` and `www.bapc.eu` a redirect to `<year>.bapc.eu`.
 
 Other relevant domainnames could be:
-- `judge.bapc.eu` for the jury to be used for Call For Problems(currently in use)
+- `jury.bapc.eu` for the jury to be used for Call For Problems (currently in use)
 - `scoreboard.bapc.eu` for hosting the public scoreboard
 - `open.bapc.eu` for hosting an open, public contest
 
