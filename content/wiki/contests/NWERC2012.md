@@ -10,7 +10,7 @@ menu: "wiki"
 | Organiser  | W.I.S.V. \`Christiaan Huygens\` |
 | Committee  | [CHipCie][email]                |
 | NWERC Date | November 23-25 2012             | 
-| website    | [link][website]                 |
+| Website    | [link][website]                 |
 | Pictures   | [link][photos]                  |
 | Scoreboard | [link][scoreboard]              |
 | Teams      | 85                              |
