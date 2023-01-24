@@ -6,7 +6,7 @@ date: 2022-04-18T11:50:27+02:00
 # Hosting a preliminary
 
 Hosting a preliminary contest not an easy endeavour to do. Starting from scratch is not trivial. This article outlines
-some basic starting points of a contest. These instructions are guidelines for a contest, but you are free to drop requirements if this block the hosting of a contest.
+some basic starting points of a contest. These instructions are guidelines for a contest, but you are free to drop requirements if this is blocking for the hosting of a contest.
 
 ## The format of the contest
 
