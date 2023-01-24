@@ -15,5 +15,4 @@ Here you can find some general information to help you with organizing a Program
 * [Organizing your first ICPC style contest](/wiki/organizing-a-first-year-contest---setting-up-an-icpc-style-contest/)
 * [Coaching a team](/wiki/coaching-a-team/)
 * [Contests archive](/wiki/contests/)
-* [BAPC logo overview](/wiki/bapc-logos/)
 
