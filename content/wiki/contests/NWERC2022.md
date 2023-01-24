@@ -7,7 +7,7 @@ menu: "wiki"
 |            |                                 |
 |------------|--------------------------------:|
 | Host       |  Delft University of Technology |
-| Organizer  | W.I.S.V. \`Christiaan Huygens\` |
+| Organiser  | W.I.S.V. \`Christiaan Huygens\` |
 | Commitee   |                [Chipcie][email] |
 | NWERC Date |             November 25-27 2022 |
 | website    |                 [link][website] |

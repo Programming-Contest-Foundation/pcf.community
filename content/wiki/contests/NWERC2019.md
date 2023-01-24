@@ -8,7 +8,7 @@ menu: "wiki"
 |            |                       |
 |------------|----------------------:|
 | Host       |          TU Eindhoven |
-| Organizer  |                 GEWIS |
+| Organiser  |                 GEWIS |
 | Committee  |       [GEHACK][email] |
 | BAPC Date  |   November 15-17 2019 | 
 | website    |       [link][website] |
