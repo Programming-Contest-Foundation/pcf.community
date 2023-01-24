@@ -12,7 +12,8 @@ Here you can find some general information to help you with organizing a Program
 * [BAPC Preliminary sites](/wiki/bapc-preliminary-sites/)
 * [Benelux Slack](/wiki/benelux-slack/)
 * [Hosting a preliminary](/wiki/hosting-a-preliminary/)
-* [Organizing your first ICPC style contest](/wiki/organizing-a-first-year-contest---setting-up-an-icpc-style-contest/)
+* [Organizing an ICPC style contest](/wiki/organizing-icpc-contest/)
 * [Coaching a team](/wiki/coaching-a-team/)
 * [Contests archive](/wiki/contests/)
+* [Domains](/wiki/domains/)
 
