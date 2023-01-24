@@ -1,0 +1,45 @@
+---
+title: "Overview BAPC logos"
+
+---
+
+| Year | City             | Logo                    |
+|------|------------------|-------------------------|
+| 2005 | Delft            | ![][2005]               |
+| 2006 | Leiden           | ![][2006]               |
+| 2007 | Enschede         | Missing                 |
+| 2008 | Delft            | ![][2008]               |
+| 2009 | Groningen        | ![][2009]               |
+| 2010 | Leiden           | ![][2010_1] ![][2010_2] |
+| 2011 | Eindhoven        | ![][2011]               |
+| 2012 | Utrecht          | ![][2012]               |
+| 2013 | Utrecht          | ![][2013]               |
+| 2014 | Eindhoven        | ![][2014]               |
+| 2015 | Leiden           | ![][2015]               |
+| 2016 | Delft            | ![][2016]               |
+| 2017 | Amsterdam        | ![][2017]               |
+| 2018 | Louvain-la-Neuve | ![][2018]               |
+| 2019 | Nijmegen         | ![][2019]               |
+| 2020 | Delft            | ![][2020]               |
+| 2021 | Amsterdam        | ![][2021]               |
+| 2022 | Eindhoven        | ![][2022]               |
+
+[2005]: /logos/2005.png "BAPC 2005 logo"
+[2006]: /logos/2006.png "BAPC 2006 logo"
+[2007]: /logos/2007.png "BAPC 2007 logo"
+[2008]: /logos/2008.gif "BAPC 2008 logo"
+[2009]: /logos/2009.png "BAPC 2009 logo"
+[2010_1]: /logos/2010_1.png "BAPC 2010 logo, part 1"
+[2010_2]: /logos/2010_2.png "BAPC 2010 logo, part 2"
+[2011]: /logos/2011.png "BAPC 2011 logo"
+[2012]: /logos/2012.png "BAPC 2012 logo"
+[2013]: /logos/2013.png "BAPC 2013 logo"
+[2014]: /logos/2014.png "BAPC 2014 logo"
+[2015]: /logos/2015.svg "BAPC 2015 logo"
+[2016]: /logos/2016.jpg "BAPC 2016 logo"
+[2017]: /logos/2017.svg "BAPC 2017 logo"
+[2018]: /logos/2018.png "BAPC 2018 logo"
+[2019]: /logos/2019.png "BAPC 2019 logo" 
+[2020]: /logos/2020.png "BAPC 2020 logo" 
+[2021]: /logos/2021.svg "BAPC 2021 logo" 
+[2022]: /logos/2022.svg "BAPC 2022 logo" 
