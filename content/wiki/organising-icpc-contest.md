@@ -27,6 +27,6 @@ Over the years, we have learned the following things. Listed below are common pi
 - Avoid using Wi-Fi as networking solution.
 
 ### Preliminaries
-- Promote preliminary contests to use the latest versions of DOMjudge.
+- Promote preliminary contests to use the latest version of DOMjudge.
 - The problemset should be finished at least a week before the first preliminary.
 
