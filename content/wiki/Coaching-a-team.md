@@ -12,7 +12,7 @@ The most obvious role linked to a coach is being the trainer of a team. You can 
 the type of problems appearing in contests. There are multiple books published that can help you to do this. A small 
 incomplete selection:
 * [Competitive Programming 4th Edition](https://cpbook.net/) ([2nd edition downloadable for free](https://cpbook.net/details?cp=2))
-* [Programming Challenges: The Programming Contest Training Manual](https://books.google.nl/books/about/Programming_Challenges.html)
+* [Programming Challenges: The Programming Contest Training Manual](https://books.google.nl/books?id=dNoLBwAAQBAJ)
 * [Guide to Competitive Programming: Learning and Improving Algorithms Through Contests](https://books.google.nl/books?id=3JbiDwAAQBAJ)
 
 Another option is to practice previous problems. This can be done in [open Kattis](https://open.kattis.com/) or using
