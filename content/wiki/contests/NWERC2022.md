@@ -27,11 +27,11 @@ menu: "wiki"
 
 ### Contest
 
-| Contest          | Problemset, solutions and presentation                                            |
-|------------------|-----------------------------------------------------------------------------------|
-| Problemset       | [link](https://2022.nwerc.eu/main/problem-set.pdf)                                |
-| Solutions slides | [link](https://2022.nwerc.eu/main/solutions.pdf)                                  |
-| Problem packages | [link](https://commissies.ch.tudelft.nl/chipcie/archive/2022/nwerc/solutions.zip) |
+| Contest          | Problemset, solutions and presentation                           |
+|------------------|------------------------------------------------------------------|
+| Problemset       | [link](https://2022.nwerc.eu/main/problem-set.pdf)               |
+| Solutions slides | [link](https://2022.nwerc.eu/main/solutions.pdf)                 |
+| Problem packages | [link](https://chipcie.wisv.ch/archive/2022/nwerc/solutions.zip) |
 
 [home]: index.md
 
