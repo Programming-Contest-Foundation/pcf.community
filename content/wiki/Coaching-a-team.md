@@ -16,7 +16,7 @@ incomplete selection:
 * [Guide to Competitive Programming: Learning and Improving Algorithms Through Contests](https://books.google.nl/books?id=3JbiDwAAQBAJ)
 
 Another option is to practice previous problems. This can be done in [open Kattis](https://open.kattis.com/) or using
-the [CHipCie problem archive](https://commissies.ch.tudelft.nl/chipcie/archive). Having regular sessions where teams
+the [CHipCie problem archive](https://chipcie.wisv.ch/archive). Having regular sessions where teams
 practice in a simulated contest environment. Having a time with one computer available, factors on roles of team members
 can be fine-tuned. Think about setting up the code environment, selecting the first problems and efficiently using the 
 computer. 
@@ -28,7 +28,7 @@ usually be found in the rules and systems pages on the website. If you can't fin
 to contact to organisation to ask.
 
 For TRD, a selection of following templates exist which can be used for a team as basis:
-* [TU Delft template](https://commissies.ch.tudelft.nl/chipcie/resources/tcr-template.zip) ([pdf](https://commissies.ch.tudelft.nl/chipcie/resources/tcr.pdf))
+* [TU Delft template](https://chipcie.wisv.ch/resources/tcr-template.zip) ([pdf](https://chipcie.wisv.ch/resources/tcr.pdf))
 * [Does god play Tetris](https://github.com/alexjbest/icpc-tcr/blob/master/teamref.pdf)
 * [Let's party!](https://github.com/mzuenni/ContestReference/blob/new-master/tcr.pdf)
 * [Omogen Heap](https://github.com/kth-competitive-programming/kactl/blob/main/kactl.pdf)
@@ -74,7 +74,7 @@ contest the TRD also should be hand in at registration or during the test sessio
 ## During the Test Session
 Make sure teams use the test session to test everything they might do during the contest. They should try everything,
 including printing, sending in wrong submissions, sending a clarification request. An extensive list of things to check
-is available on the [CHipCie Resources page](https://commissies.ch.tudelft.nl/chipcie/resources/).
+is available on the [CHipCie Resources page](https://chipcie.wisv.ch/resources/).
 
 ## During the Contest
 Teams are not allowed to have electronics on them. Not all contests offer facilities to safely store them and the 

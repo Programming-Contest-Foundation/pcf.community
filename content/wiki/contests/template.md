@@ -18,10 +18,10 @@ menu: "wiki"
 | Teams      |                {teams} |
 
 ## Problemset
-| Contest     | Problemset                                                                         | Solutions                                                                         | Presentation                                                                      |
-|-------------|------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
-| BAPC        | [link](http://commissies.ch.tudelft.nl/chipcie/archive/{year}/bapc/problemset.pdf) | [link](http://commissies.ch.tudelft.nl/chipcie/archive/{year}/bapc/solutions.zip) | [link](http://commissies.ch.tudelft.nl/chipcie/archive/{year}/bapc/solutions.pdf) 
-| Prelinaries | [link](http://commissies.ch.tudelft.nl/chipcie/archive/{year}/dapc/problemset.pdf) | [link](http://commissies.ch.tudelft.nl/chipcie/archive/{year}/dapc/solutions.zip) | [link](http://commissies.ch.tudelft.nl/chipcie/archive/{year}/dapc/solutions.pdf) |
+| Contest     | Problemset                                                        | Solutions                                                        | Presentation                                                     |
+|-------------|-------------------------------------------------------------------|------------------------------------------------------------------|------------------------------------------------------------------|
+| BAPC        | [link](http://chipcie.wisv.ch/archive/{year}/bapc/problemset.pdf) | [link](http://chipcie.wisv.ch/archive/{year}/bapc/solutions.zip) | [link](http://chipcie.wisv.ch/archive/{year}/bapc/solutions.pdf) | 
+| Prelinaries | [link](http://chipcie.wisv.ch/archive/{year}/dapc/problemset.pdf) | [link](http://chipcie.wisv.ch/archive/{year}/dapc/solutions.zip) | [link](http://chipcie.wisv.ch/archive/{year}/dapc/solutions.pdf) |
 
 ## Preliminaries
 The preliminaries were held on September {date} {year}.
@@ -41,4 +41,4 @@ The preliminaries were held on September {date} {year}.
 [email]: mailto:chipcie@ch.tudelft.nl
 [photos]: https://
 [scoreboard]: https://{year}.bapc.eu/en/results/
-[problemset]: http://commissies.ch.tudelft.nl/chipcie/archive/{year}/bapc/problemset.pdf
+[problemset]: http://chipcie.wisv.ch/archive/{year}/bapc/problemset.pdf
