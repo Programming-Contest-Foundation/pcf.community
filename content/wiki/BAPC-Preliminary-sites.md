@@ -15,6 +15,7 @@ Although not the primary focus of this foundation this is the current list (as o
 | Mons                                            |                           |
 | Radboud                                         |                           |
 | Rijksuniversiteit Groningen                     | board@svcover.nl          |
+| Saxion University of Applied Sciences           | tapc@inter-actief.net     |
 | TU Delft                                        | chipcie@ch.tudelft.nl     |
 | TU/e                                            | gehack@gewis.nl           |
 | UKIEPC                                          |                           |
