@@ -18,7 +18,7 @@ Although not the primary focus of this foundation this is the current list (as o
 | TU Delft                                        | chipcie@ch.tudelft.nl     |
 | TU/e                                            | gehack@gewis.nl           |
 | UKIEPC                                          |                           |
-| University of Twente                            | tapc2020@inter-actief.net |
+| University of Twente                            | tapc@inter-actief.net     |
 | Université Catholique de Louvain                |                           |
 | Utrecht                                         | escapade@A-Eskwadraat.nl  |
 | UvA                                             | competitie@svia.nl        |
